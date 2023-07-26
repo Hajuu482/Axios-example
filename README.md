@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+
+![Screenshot 2023-07-26 111225](https://github.com/Hajuu482/Axios-example/assets/134909889/ad102579-da5c-4493-9ac8-59ce83eee74b)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

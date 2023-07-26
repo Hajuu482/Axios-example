@@ -1,0 +1,32 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+body{
+  background-color:  rgb(148, 62, 52) ;
+  text-align: center;
+}
+
+button {
+  margin-top:20px;
+  background-color:darkgoldenrod;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.item-parent {
+  margin-left: 35%;
+}
+
+.items{
+  margin-top: 20px;
+  border-radius: 4px;
+  padding: 10px;
+  background-color: rgba(201, 180, 43, 0.5);
+  width: 400px;
+  text-align: center;
+  color: white;
+}
